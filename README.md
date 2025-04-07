@@ -1,0 +1,1 @@
+# multiplication_exponents_table_app
