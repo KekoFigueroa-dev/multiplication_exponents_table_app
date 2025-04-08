@@ -42,7 +42,7 @@ message = f"{user_name}, Math is cool!"
 # - Original message
 print(message)
 # - Lowercase message
-print(message.lower())
+print(f"\t{message.lower()}")
 # - Title case message
 print(f"\t\t{message.title()}")
 # - Uppercase message
